@@ -1,0 +1,50 @@
+---
+title: "R Evolution"
+subtitle: "A Guide for Training SAS Programmers"
+abstract: "In the changing landscape of pharmaceutical programming, many companies are exploring R alongside SAS for its open-source flexibility and broad community. However, some SAS programmers find it difficult to transition to using R, and it often falls to the next generation of statistical programmers to foster and encourage the use of R in their company. Based on practical experience designing and delivering R training to SAS programmers, this presentation dives into how to train SAS programmers in R, highlighting effective methodologies, resources, and best practices tailored for those familiar with SAS. It outlines common pitfalls and challenges that SAS programmers may encounter when learning R, such as: different modes of thinking about data; dealing with missing values; changes in numerical methods; and dealing with larger-than-memory data. This presentation offers practical solutions and strategies to overcome these hurdles, and how to incorporate them into a training program designed for SAS programmers."
+author:
+  name: "Michael Walshe"
+  email: "michael.walshe@katalyzedata.com"
+  url: "https://github.com/michaelwalshe"
+  affiliation:
+    name: "Katalyze Data"
+    url: "https://katalyzedata.com"
+date: "2024-10-13"
+format:
+  html:
+    embed-resources: true
+---
+
+# Introduction
+
+ - Agenda, what will I cover
+ - What is SAS, where does it fit in the wider space of pharma
+ - What is R, how is it starting to be used in pharma
+ - Why should SAS programmers learn R?
+ - Training plan for SAS programmers
+   - Get organisational buy in (why are you learning this) and user buy in
+   - Designing a training plan
+   - Training methodologies (online, in person, self paced, )
+ - Common issues when learning R
+   - Personal/organisational/cultural
+   - Technical
+
+# Current State of Play
+
+<!-- Describe the state of SAS and R in pharma, what are current trends, why are people learning more R, how is that transition going. Reference existing studies
+or trials now being done in R, reference Roche -->
+
+# Why Should SAS Programmers Learn R?
+
+<!-- What are the benefits of learning R, why is it important to learn R, what are the benefits of learning R over SAS, what are the benefits of learning R in addition to SAS -->
+
+# Training Plan for SAS Programmers
+
+<!-- How to design a training plan for SAS programmers, what are the key things to consider, how to get organisational buy in, how to get user buy in, how to design
+a training plan, what are the key things to consider when designing a training plan, what are the key methodologies for training SAS programmers in R -->
+
+# Common Issues When Learning R
+
+<!-- What are the common issues that SAS programmers face when learning R, what are the personal, organisational, and cultural issues that SAS programmers face when learning R, what are the technical issues that SAS programmers face when learning R, how can these issues be overcome -->
+
+# Conclusion
