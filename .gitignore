@@ -7,3 +7,8 @@
 
 *.html
 *.docx
+*.csv
+data/
+
+!phuse-reference.docx
+!.gitkeep
