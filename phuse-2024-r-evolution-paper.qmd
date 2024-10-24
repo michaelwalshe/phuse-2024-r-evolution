@@ -57,6 +57,10 @@ df <- data.frame(
   y = runif(1e6)
 )
 
+if (!fs::dir_exists("data/bigmemory")) {
+  fs::dir_create("data/bigmemory", recurse = TRUE)
+}
+
 write_csv(df, "data/big_data.csv")
 ```
 
